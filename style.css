@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+ width: 100%;
+ overflow-x: hidden;
+ align-items: center;
+}
+.card .container{
+   display: flex;
+
+}
+.card .container button{
+    width: 95px;
+    background-color: #dd8006;
+    border-radius: 25px;
+    margin: 5px;
+}
+.card .container .fa-solid{
+    width: 35px;
+    border-radius: 50px;
+    margin-left: 10px;
+    color: #dd8006;
+   float: left;
+}
+.card .sub-card .palagraph{
+    color: rgb(172, 133, 83);
+}
+.card .container p{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: medium;
+  margin-left: 10px;
+  color: white;
+  
+}
+.card .sub-card img{
+    width: 30px;
+   margin-left: 80%;
+   margin-top: -70%;
+   border-radius: 50px;
+   box-sizing: 1px 2px 2px green;
+}
+.card .sub-card h4{
+    color: rgb(173, 173, 173);
+     font-size: 15px;
+     border-top: 1px solid white;
+     margin-top: 10px;
+}
+.card .sub-card b{
+    color: aqua;
+    margin-top: 10%;
+}
+.container .fa-solid{
+   margin-top: 10px;
+   font-size: x-large;
+   margin-left: 10px;
+   color: aliceblue;
+}
+.card{
+    background-color: rgba(72, 11, 215, 0.832);
+    width: 100%;
+   padding: 20px;
+    height: 60vh;
+    margin-left: -4%;
+}
+
+.card .sub-card h3{
+    font-size: x-large;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: white;
+}
+.card .sub-card p{
+    color: rgb(27, 195, 27);
+    margin-bottom: 8px;
+    margin-left: -2px;
+}
+p{
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.card .sub-card{
+    width: 100%;
+   max-width: 420px;
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+  margin-left: 3%;
+  padding: 18px;
+  box-shadow: 0 10px 30px rgba(0,0, 255, 0.35);
+border-radius: 25px;
+}
+.card .sub-card .payment{
+    margin-left: 60%;
+    margin-top: -35px;
+    
+}
+.card .sub-card .payment h5{
+    color: rgb(139, 139, 139);
+    font-weight: 900;
+    font-size: 15px;
+}
+.card .sub-card .remaining p{
+    color: #aa8657;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.card .sub-card .remaining b{
+    
+}
+
+
