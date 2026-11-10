@@ -60,9 +60,9 @@ html, body{
 }
 .card{
     background-color: rgba(72, 11, 215, 0.832);
-    width: 100%;
+    width: 200%;
    padding: 20px;
-    height: 60vh;
+    height: 58vh;
     margin-left: -4%;
 }
 
@@ -106,9 +106,6 @@ border-radius: 25px;
     color: #aa8657;
     font-size: 18px;
     margin-top: 20px;
-}
-.card .sub-card .remaining b{
-    
 }
 
 
